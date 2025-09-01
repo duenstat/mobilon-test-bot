@@ -30,7 +30,7 @@
 ```bash
 # Клонирование репозитория
 git clone https://github.com/duenstat/mobilon-test-bot.git
-cd morning-greeting-bot
+cd mobilon-test-bot
 
 # Установка зависимостей
 npm install
