@@ -29,7 +29,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-repo/morning-greeting-bot.git
+git clone https://github.com/duenstat/mobilon-test-bot.git
 cd morning-greeting-bot
 
 # Установка зависимостей
